@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bar.md",
+            "file": "ios.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bar.md",
+                "file": "ios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,11 +84,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "2d219ed3ca643ed5",
   "lastOpenFiles": [
-    "bar.md"
+    "ios.md",
+    "bar.md",
+    "azure.md"
   ]
 }
